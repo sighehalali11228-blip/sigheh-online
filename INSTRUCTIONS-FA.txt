@@ -1,0 +1,6 @@
+نسخه اصلاح‌شده سایت برای GitHub Pages
+
+مهم: همه فایل‌های داخل این پوشه باید مستقیماً در ریشه مخزن GitHub باشند. هیچ پوشه assets یا cities لازم نیست.
+فایل index.html، style.css، فایل‌های عکس JPG و فایل‌های HTML شهرها را در ریشه مخزن قرار دهید.
+آدرس مورد انتظار: https://sighehalali11228-blip.github.io/sigheh-online/
+اگر GitHub پرسید فایل هم‌نام جایگزین شود، نسخه جدید را جایگزین کنید. سپس Settings > Pages باید روی main و /(root) باشد.
